@@ -1,7 +1,7 @@
-# Linux Phantom IP Grabber
+# IP Grabber To Discord
 
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
-[![Discord](https://img.shields.io/discord/1234567890.svg?color=blueviolet&label=Discord&logo=discord)](https://discord.gg/2nvdyy9e9j)
+[![Discord](https://img.shields.io/discord/1234567890.svg?color=blueviolet&label=Discord&logo=discord)](https://discord.com/invite/2nvdyy9e9j)
 
 ## Description
 
@@ -26,17 +26,15 @@ Linux Phantom IP Grabber is a Python script that allows you to retrieve the publ
 ![Changing Webhook & API](/screenshots/ChangingWebhookAPI.jpg)
 - Changing the Webhook and API are as simple as going to the Config.json and editing to yours. You must also edit the API Key in the Main.py file. I had created a tag to look for when making the edit "#Your API Key WILL GO HERE AFTER key="
 
-## Installation
+# Installation
 
-1. Clone the repository:
-
-```bash
+### Clone the repository:
 git clone https://github.com/YourUsername/Linux-Phantom-IP-Grabber.git
 
 ### Install the required Python packages:
 pip install -r requirements.txt
 
-## Usage
+# Usage
 
 ### Navigate to the project folder:
 cd Linux-Phantom-IP-Grabber
@@ -48,10 +46,12 @@ cd Linux-Phantom-IP-Grabber
 
 ### Run the executable:
 python main.py
+
 OR
+
 Use the you can build your own exe file using "Auto-py-to-exe" Join Our Discord For More Info
 
-### Your IP address will be displayed and sent to the Discord webhook.
+### IP address will be displayed and sent to the Discord webhook.
 
 # https://discord.io/hackme
 
