@@ -29,7 +29,7 @@ Linux Phantom IP Grabber is a Python script that allows you to retrieve the publ
 # Installation
 
 ### Clone the repository:
-git clone https://github.com/YourUsername/Linux-Phantom-IP-Grabber.git
+git clone https://github.com/LinuxPhantom/Linux-Phantom-IP-Grabber.git
 
 ### Install the required Python packages:
 pip install -r requirements.txt
